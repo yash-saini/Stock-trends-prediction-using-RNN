@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 18 22:48:34 2019
-
-@author: YASH SAINI
-"""
-
 import numpy as np
 import quandl
 import matplotlib.pyplot as plt
